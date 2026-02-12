@@ -1,3 +1,19 @@
+<div>
+  <h1>¿QUIEN SOY?<h1/>
+  <p> Me llamo valentin 🌱, un amante de las computadoras,<br/>
+    personamente soy colaborador, comunicador, responsable<br/> con 
+    mis deberes, empatico y un entusiasta en desarrollo web backend.
+
+  </p>
+  <h2>Lenguajes de programacion</h2>
+
+  <ul>
+    <li> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      /> </a> </li> 
+  </ul>
+</div>
+
+
 ## Hi there 👋
 
 <!--
