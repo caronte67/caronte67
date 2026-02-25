@@ -23,5 +23,5 @@
   </ul>
 
   <h3> para contactar:</h3>
-  <a href="valennunez306@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="valennunez306@gmail.com"> </a>
+  <a href="mailto:valennunez306@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="valennunez306@gmail.com"> </a>
 </div>
